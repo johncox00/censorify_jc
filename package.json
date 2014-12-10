@@ -1,0 +1,11 @@
+{
+  "author" : "John Cox",
+  "name" : "censorify_jc",
+  "version" : "0.1.0",
+  "description" : "Censors words from a string.",
+  "main" : "censortext",
+  "dependencies" : {},
+  "engines" : {
+    "node" : "*"
+  }
+}
